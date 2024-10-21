@@ -1,5 +1,7 @@
 //  Lost Fortune
 // A personalized adventure
+// Deze wijziging is om te zien of de lokale en cloud bestanden
+// synchroniseren.
 
 #include "iostream"
 #include <string>
